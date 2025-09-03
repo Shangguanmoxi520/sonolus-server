@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "name": "myengine",
+            "version": 1,
+            "title": "My Custom Engine",
+            "subtitle": "Lua Based",
+            "author": "Me",
+            "thumbnail": "/sonolus/engines/myengine/thumbnail.png",
+            "data": "/sonolus/engines/myengine/data.sonolus"
+        }
+    ]
+}

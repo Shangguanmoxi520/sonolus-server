@@ -1,0 +1,15 @@
+{
+    "items": [
+        {
+            "name": "song1",
+            "version": 1,
+            "title": "Test Song",
+            "artist": "Unknown",
+            "author": "Me",
+            "thumbnail": "/sonolus/levels/song1/cover.png",
+            "bg": "/sonolus/levels/song1/bg.png",
+            "music": "/sonolus/levels/song1/music.ogg",
+            "data": "/sonolus/levels/song1/data.sonolus"
+        }
+    ]
+}
