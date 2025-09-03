@@ -8,7 +8,7 @@
             "author": "Me",
             "thumbnail": "/sonolus/levels/song1/cover.png",
             "bg": "/sonolus/levels/song1/bg.png",
-            "music": "/sonolus/levels/song1/music.ogg",
+            "music": "/sonolus/levels/song1/music.mp3",
             "data": "/sonolus/levels/song1/data.sonolus"
         }
     ]
